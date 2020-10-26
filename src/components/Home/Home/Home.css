@@ -1,0 +1,31 @@
+.header{
+    background-image: url('https://i.postimg.cc/0jqL9t4W/header-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+
+.header-bg{
+    background-color: #00000082;
+}
+
+.icon{
+    font-size: 22px;
+    margin-right: 5px;
+}
+
+.footer a{
+    color: white;
+}
+
+.footer{
+    background-color: #171426;
+}
+
+.text-brand{
+    color: #fcd842;
+}
+
+.bg-brand{
+    background-color: #fcd842;
+}
